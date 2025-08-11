@@ -12,17 +12,17 @@ Below are screenshots of the key sections of the website.
 
 ### Home Section
 
-![Home Section Screenshot](https://via.placeholder.com/600x350.png?text=Your+Homepage+Screenshot+Here)
+![Home Section Screenshot](src\assets\screenshots\1.png)
 _(Replace the link above with the URL of your actual screenshot)_
 
 ### Menu Section
 
-![Menu Section Screenshot](https://via.placeholder.com/600x350.png?text=Your+Menu+Screenshot+Here)
+![Menu Section Screenshot](src\assets\screenshots\3.png)
 _(Replace the link above with the URL of your actual screenshot)_
 
 ### About Us Section
 
-![About Us Screenshot](https://via.placeholder.com/600x350.png?text=Your+About+Us+Screenshot+Here)
+![About Us Screenshot](src\assets\screenshots\2.png)
 _(Replace the link above with the URL of your actual screenshot)_
 
 ---
