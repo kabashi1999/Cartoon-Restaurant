@@ -1,8 +1,8 @@
-# [Your Restaurant Name] - Landing Page
+# [Cartoon Restaurant] - Landing Page
 
-A modern and responsive landing page for [Your Restaurant Name], designed to provide an elegant online presence, showcase our menu, and connect with our customers.
+A modern and responsive landing page for [Cartoon Restaurant], designed to provide an elegant online presence, showcase a rich menu, and connect with our cartoon customers.
 
-**Live Demo:** [Link to your deployed website](https://your-website-link.com)
+**Live Demo:** [check the demo here](https://your-website-link.com)
 
 ---
 
@@ -13,17 +13,14 @@ Below are screenshots of the key sections of the website.
 ### Home Section
 
 ![Home Section Screenshot](./src/assets/screenshots/1.png)
-_(Replace the link above with the URL of your actual screenshot)_
 
 ### Menu Section
 
 ![Menu Section Screenshot](./src/assets/screenshots/3.png)
-_(Replace the link above with the URL of your actual screenshot)_
 
 ### About Us Section
 
 ![About Us Screenshot](./src/assets/screenshots/2.png)
-_(Replace the link above with the URL of your actual screenshot)_
 
 ---
 
@@ -40,7 +37,7 @@ _(Replace the link above with the URL of your actual screenshot)_
 
 ## Project Overview
 
-This project is a single-page website for "Restaurant Name." Its purpose is to create a strong first impression, provide essential information like menu and location, and offer an easy way for customers to get in touch. The design is clean, modern, and fully responsive.
+This project is a single-page website for "Cartoon Restaurant." Its purpose is to create a strong first impression, provide essential information like menu and location, and offer an easy way for customers to get in touch. The design is clean, modern, and fully responsive.
 
 ---
 
@@ -69,7 +66,7 @@ This project is a single-page website for "Restaurant Name." Its purpose is to c
 - **HTML5:** For the structure and content of the website.
 - **CSS3:** For styling, layout (using Flexbox/Grid), and animations.
 - **JavaScript:** For dynamic features like smooth scrolling, form validation, and interactive elements.
-- **(Optional) Frameworks:** List any frameworks you used, e.g., Bootstrap, React, Vue.js.
+- **Frameworks:** React js , and vite .
 
 ---
 
@@ -103,14 +100,8 @@ To set up this project locally, follow these steps:
    npm run dev
    ```
 
-3. **Run the development server:**
-
-   ```sh
-   npm run dev
-   ```
-
 ---
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE.md` file for details.
+This project is licensed under the MIT License.
