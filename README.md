@@ -2,7 +2,7 @@
 
 A modern and responsive landing page for [Cartoon Restaurant], designed to provide an elegant online presence, showcase a rich menu, and connect with our cartoon customers.
 
-**Live Demo:** [check the demo here](https://your-website-link.com)
+**Live Demo:** [check the demo here](https://kabashi1999.github.io/Cartoon-Restaurant/)
 
 ---
 
